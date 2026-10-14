@@ -1,0 +1,13 @@
+13
+-----
+16
+-----
+-10
+-----
+6
+-----
+20
+-----
+17
+-----
+ERROR on line 13: Division by zero is not allowed.
